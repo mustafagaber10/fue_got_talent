@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814325652151",
+    "project_id": "fue-got-talent-3517a",
+    "storage_bucket": "fue-got-talent-3517a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814325652151:android:5132e018bfe8dda30b4b32",
+        "android_client_info": {
+          "package_name": "com.example.fue_got_talent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814325652151-qi220o0nkqu57eq33b7u29ilgo9s9aik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fue_got_talent",
+            "certificate_hash": "a4676b0fed902d25b34e20a51904c13f98122206"
+          }
+        },
+        {
+          "client_id": "814325652151-um58ajli0f5r5dijdieavcc7k53ul6o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANqOqgGVA5vkh8lEmnHAgp_G5LCyxKcz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814325652151-um58ajli0f5r5dijdieavcc7k53ul6o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
